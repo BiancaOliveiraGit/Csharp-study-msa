@@ -1,0 +1,6 @@
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\bin\Debug\Study_Csharp.exe.config
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\bin\Debug\Study_Csharp.exe
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\bin\Debug\Study_Csharp.pdb
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\obj\Debug\Study_Csharp.csprojResolveAssemblyReference.cache
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\obj\Debug\Study_Csharp.exe
+C:\Projects\Test Projects\Study_Csharp\Study_Csharp\obj\Debug\Study_Csharp.pdb
